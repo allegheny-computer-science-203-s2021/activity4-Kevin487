@@ -1,6 +1,8 @@
 # cs203s2021-activity4
 
-## DUE: by Thursday, March 11 
+## DUE: by Thursday, March 11
+
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ## Introduction
 
